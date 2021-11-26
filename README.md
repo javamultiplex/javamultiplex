@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
+![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-black?style=for-the-badge&logo=intellijidea)
 ![Spring Boot](https://img.shields.io/badge/-springboot-black?style=for-the-badge&logo=springboot)
 ![Hibernate](https://img.shields.io/badge/-hibernate-black?style=for-the-badge&logo=hibernate)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
