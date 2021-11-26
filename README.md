@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/javamultiplex/javamultiplex/master/wave.gif" width="30px">
 
-My name is Rohit Agarwal and I am currently working at Fidelity International as Full Stack Java Developer.
+My name is Rohit Agarwal and I am currently working as Full Stack Java Developer in Fidelity International.
 
 <!--
 **javamultiplex/javamultiplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 ## ⚡ Technologies
 
@@ -34,6 +36,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+
 
 
 # &#x1f4c8; GitHub Stats
