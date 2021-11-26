@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/javamultiplex/javamultiplex/master/wave.gif" width="30px">
 
-My name is Rohit Agarwal and I'm a Full Stack Developer. I'm from India, living in Uttarakhand and currently working at Fidelity International.
+My name is Rohit Agarwal and I am currently working at Fidelity International as Full Stack Java Developer.
 
 <!--
 **javamultiplex/javamultiplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
