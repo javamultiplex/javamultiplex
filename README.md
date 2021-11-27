@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazon-aws)
 ![Cloud Foundry](https://img.shields.io/badge/-cloudfoundry-black?style=for-the-badge&logo=cloudfoundry)
+![Terraform](https://img.shields.io/badge/-terraform-black?style=for-the-badge&logo=terraform)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Apache Maven](https://img.shields.io/badge/-apachemaven-black?style=for-the-badge&logo=apachemaven)
 ![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-black?style=for-the-badge&logo=intellijidea)
-
-
+![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 
 
 # &#x1f4c8; GitHub Stats
