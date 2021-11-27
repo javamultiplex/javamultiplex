@@ -48,12 +48,6 @@ Here are some ideas to get you started:
 ![Cucumber](https://img.shields.io/badge/-cucumber-black?style=for-the-badge&logo=cucumber)
 
 # &#x1f4c8; GitHub Stats
-<p align="center">
-  <a href="https://github.com/javamultiplex/javamultiplex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javamultiplex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-  </p>
-  <br/>
 <p align="center"><a href="https://github.com/javamultiplex/javamultiplex">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javamultiplex&theme=dark" alt="javamultiplex" />
 </a></p>
