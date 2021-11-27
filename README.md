@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ![Kibana](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana)
 ![Apache Tomcat](https://img.shields.io/badge/-apachetomcat-black?style=for-the-badge&logo=apachetomcat)
 ![SonarQube](https://img.shields.io/badge/-sonarqube-black?style=for-the-badge&logo=sonarqube)
+![Cucumber](https://img.shields.io/badge/-cucumber-black?style=for-the-badge&logo=cucumber)
 
 # &#x1f4c8; GitHub Stats
 
