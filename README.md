@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)
 ![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-black?style=for-the-badge&logo=intellijidea)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
-
+![Kibana](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana)
+![Apache Tomcat](https://img.shields.io/badge/-apachetomcat-black?style=for-the-badge&logo=apachetomcat)
+![SonarQube](https://img.shields.io/badge/-sonarqube-black?style=for-the-badge&logo=sonarqube)
 
 # &#x1f4c8; GitHub Stats
 
