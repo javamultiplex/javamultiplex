@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## ⚡ Technologies
+## ⚡ Tools & Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
