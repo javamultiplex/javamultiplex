@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/javamultiplex/javamultiplex/master/wave.gif" width="30px">
+### Hello Friends <img src="https://raw.githubusercontent.com/javamultiplex/javamultiplex/master/wave.gif" width="30px">
 
 My name is Rohit Agarwal and I am currently working as Full Stack Java Developer in Fidelity International.
 
