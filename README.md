@@ -21,24 +21,25 @@ Here are some ideas to get you started:
 
 # ⚡ Tools & Technologies
 
+![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/-springboot-black?style=for-the-badge&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-hibernate-black?style=for-the-badge&logo=hibernate)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
-![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-black?style=for-the-badge&logo=intellijidea)
-![Spring Boot](https://img.shields.io/badge/-springboot-black?style=for-the-badge&logo=springboot)
-![Hibernate](https://img.shields.io/badge/-hibernate-black?style=for-the-badge&logo=hibernate)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazon-aws)
+![Cloud Foundry](https://img.shields.io/badge/-cloudfoundry-black?style=for-the-badge&logo=cloudfoundry)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=for-the-badge&logo=bitbucket)
+![Apache Maven](https://img.shields.io/badge/-apachemaven-black?style=for-the-badge&logo=apachemaven)
+![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-black?style=for-the-badge&logo=intellijidea)
 
 
 
