@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-# ⚡ Tools & Technologies
+## ⚡ Tools & Technologies
 
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-springboot-black?style=for-the-badge&logo=springboot)
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ![SonarQube](https://img.shields.io/badge/-sonarqube-black?style=for-the-badge&logo=sonarqube)
 ![Cucumber](https://img.shields.io/badge/-cucumber-black?style=for-the-badge&logo=cucumber)
 
-# &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 <p align="center"><a href="https://github.com/javamultiplex/javamultiplex">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javamultiplex&theme=dark" alt="javamultiplex" />
 </a></p>
@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 </a>
   </p>
   
-<h1>📫 Let's Connect</h1>
+## :link: Let's Connect
+
 <p><a href="https://github.com/javamultiplex" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/rohitagarwalhit" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-black.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/coder-rohit-agarwal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/rohit.agarwal.988" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-black.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a><a href="https://www.hackerrank.com/RohitRocks" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/hackerrank-black.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
