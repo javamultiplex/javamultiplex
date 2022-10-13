@@ -63,5 +63,6 @@ Here are some ideas to get you started:
 
 <p><a href="https://www.linkedin.com/in/coder-rohit-agarwal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/rohit.agarwal.988" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-black.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a><a href="https://twitter.com/rohitagarwalhit" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-black.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.hackerrank.com/RohitRocks" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/hackerrank-black.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/7871511/rohit-agarwal" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/stack%20overflow-black.svg?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.quora.com/profile/Rohit-Agarwal-38" target="_blank"><img alt="Quora" src="https://img.shields.io/badge/quora-black.svg?logo=quora&logoColor=white&style=for-the-badge" /></a>
 </p>
 
