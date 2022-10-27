@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </a>
   </p>
   
-## :technologist: Hacktoberfest 2022
+## :technologist: Holopin Badges
 
 [![@javamultiplex's Holopin board](https://holopin.me/javamultiplex)](https://holopin.io/@javamultiplex)
   
