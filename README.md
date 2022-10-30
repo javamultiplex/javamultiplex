@@ -60,8 +60,9 @@ Here are some ideas to get you started:
   </p>
 
 ## &#x1f4c8; Stackoverflow Stats
-
+<p align="center">
 <a href="https://stackoverflow.com/users/7871511/rohit-agarwal"><img src="https://stackoverflow.com/users/flair/7871511.png?theme=dark" width="208" height="58" alt="profile for Rohit Agarwal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rohit Agarwal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
 
 ## :technologist: Holopin Badges
 
