@@ -62,6 +62,10 @@ Here are some ideas to get you started:
 ## :technologist: Holopin Badges
 
 [![@javamultiplex's Holopin board](https://holopin.me/javamultiplex)](https://holopin.io/@javamultiplex)
+
+## Stackoverflow
+
+<a href="https://stackoverflow.com/users/7871511/rohit-agarwal"><img src="https://stackoverflow.com/users/flair/7871511.png?theme=dark" width="208" height="58" alt="profile for Rohit Agarwal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rohit Agarwal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   
 ## :link: Let's Connect
 
