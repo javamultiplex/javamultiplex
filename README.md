@@ -58,14 +58,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=javamultiplex&show_icons=true&line_height=27&count_public=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rohit's GitHub Stats" />
 </a>
   </p>
-  
-## :technologist: Holopin Badges
-
-[![@javamultiplex's Holopin board](https://holopin.me/javamultiplex)](https://holopin.io/@javamultiplex)
 
 ## &#x1f4c8; Stackoverflow Stats
 
 <a href="https://stackoverflow.com/users/7871511/rohit-agarwal"><img src="https://stackoverflow.com/users/flair/7871511.png?theme=dark" width="208" height="58" alt="profile for Rohit Agarwal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rohit Agarwal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+## :technologist: Holopin Badges
+
+[![@javamultiplex's Holopin board](https://holopin.me/javamultiplex)](https://holopin.io/@javamultiplex)
   
 ## :link: Let's Connect
 
